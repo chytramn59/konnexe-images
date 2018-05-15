@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="22px" viewBox="0 0 23 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Search_green</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="2D_People_02_Empty" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-955.000000, -115.000000)">
+        <g id="Search-Bar" transform="translate(442.000000, 101.000000)" stroke="#272727">
+            <g id="Icon/Search_green" transform="translate(512.000000, 12.000000)">
+                <g id="search" transform="translate(1.000000, 2.000000)">
+                    <ellipse id="oval" transform="translate(10.294052, 9.772727) scale(-1, 1) translate(-10.294052, -9.772727) " cx="10.2940524" cy="9.77272727" rx="9.2647581" ry="9.27272727"></ellipse>
+                    <path d="M22.255881,16.8357438 L17.4597046,21.1994627" id="line" stroke-linecap="round" transform="translate(19.814692, 19.056818) scale(-1, 1) translate(-19.814692, -19.056818) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

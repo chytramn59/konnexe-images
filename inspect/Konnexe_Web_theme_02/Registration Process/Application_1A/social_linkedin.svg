@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/social_linkedin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="85"></rect>
+        <filter x="-0.0%" y="-0.6%" width="100.1%" height="101.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.815686275   0 0 0 0 0.850980392   0 0 0 0 0.847058824  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="0.120010599 25.2835188 25.299309 25.2835188 25.299309 0.103503975 0.120010599 0.103503975"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Object/Header" transform="translate(-1095.000000, -30.000000)">
+            <g id="Rectangle">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="icon/social_linkedin" transform="translate(1095.000000, 30.000000)">
+                <g id="Group-8" transform="translate(0.206677, 0.103388)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-7"></g>
+                    <path d="M18.1660223,17.4528093 L15.8267112,17.4528093 L15.8267112,13.6884172 C15.8267112,12.7433785 15.4885321,12.0978289 14.6416513,12.0978289 C13.9961017,12.0978289 13.6113514,12.532733 13.4415453,12.9533075 C13.3799279,13.1037685 13.3641653,13.3136975 13.3641653,13.5236265 L13.3641653,17.4528093 L11.0241378,17.4528093 C11.0241378,17.4528093 11.055663,11.0775597 11.0241378,10.4169641 L13.3641653,10.4169641 L13.3641653,11.4143059 C13.6744017,10.9356964 14.2303911,10.2514569 15.472053,10.2514569 C17.0124875,10.2514569 18.1660223,11.2573965 18.1660223,13.4183038 L18.1660223,17.4528093 Z M8.56159194,9.45687928 L8.54582936,9.45687928 C7.76199894,9.45687928 7.2532973,8.91593598 7.2532973,8.2410107 C7.2532973,7.55032284 7.77704505,7.02514213 8.57663805,7.02514213 C9.37766402,7.02514213 9.86988659,7.55032284 9.8849327,8.2410107 C9.8849327,8.91593598 9.37766402,9.45687928 8.56159194,9.45687928 L8.56159194,9.45687928 Z M7.39229465,17.4528093 L9.73160572,17.4528093 L9.73160572,10.4169641 L7.39229465,10.4169641 L7.39229465,17.4528093 Z M12.710018,0.103217382 C5.7565681,0.103217382 0.120010599,5.73977488 0.120010599,12.6932248 C0.120010599,19.6473912 5.7565681,25.2839487 12.710018,25.2839487 C19.6627515,25.2839487 25.299309,19.6473912 25.299309,12.6932248 C25.299309,5.73977488 19.6627515,0.103217382 12.710018,0.103217382 L12.710018,0.103217382 Z" id="Fill-6" fill="#272727" mask="url(#mask-4)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
